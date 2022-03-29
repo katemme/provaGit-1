@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Stampa");
         System.out.println("Stampa2");
         System.out.println("Stampa3");
-        System.out.println("Stampa Samuele575 dalla fork origin del prof");
+        System.out.println("Stampa ripasso");
     }
 }
