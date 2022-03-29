@@ -5,3 +5,4 @@ Repository di prova
 Contenuto cartelle:
 - a
 - b
+- c
