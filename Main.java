@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Stampa2");
         System.out.println("Stampa3");
         System.out.println("Stampa ripasso");
+        System.out.println("Modifica da collaboratore");
     }
 }
