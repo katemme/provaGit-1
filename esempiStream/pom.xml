@@ -79,7 +79,7 @@
               <phase>compile</phase>
               <configuration>
                 <!-- <mainClass>it.isa.stream.Collezioni</mainClass> -->
-                <mainClass>it.isa.stream.Stream</mainClass>
+                <mainClass>it.isa.stream.TestStream</mainClass>
               </configuration>
               <goals>
                 <goal>java</goal>
