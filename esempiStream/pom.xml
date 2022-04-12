@@ -78,7 +78,8 @@
               <id>execution1</id>
               <phase>compile</phase>
               <configuration>
-                <mainClass>it.isa.stream.Collezioni</mainClass>
+                <!-- <mainClass>it.isa.stream.Collezioni</mainClass> -->
+                <mainClass>it.isa.stream.Stream</mainClass>
               </configuration>
               <goals>
                 <goal>java</goal>
